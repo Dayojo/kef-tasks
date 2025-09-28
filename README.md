@@ -20,6 +20,7 @@ kef-tasks/
 
 ## Projects
 
+
 ### 1. file_checker
 
 - **file_type_checker.py**: Scans a directory (optionally recursively) and prints the type of each recognized source file (C, C++, Python, Java, Matlab).
@@ -30,6 +31,12 @@ kef-tasks/
 
 - **open_terminal.py**: Opens a new Windows command prompt window with a custom title.
 - See `open_terminal/README.md` for usage details.
+
+### 3. git_solution
+
+- **Purpose**: Provides a comprehensive guide and scripts for setting up a self-hosted GitLab instance with enterprise-grade monitoring using Prometheus and Grafana.
+- **Contents**: Includes installation instructions, Docker Compose configurations, monitoring stack setup, alerting rules, backup strategies, and security best practices.
+- See `git_solution/README.md` for the full DevOps solution and detailed setup steps.
 
 ## Getting Started
 
